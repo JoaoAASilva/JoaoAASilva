@@ -1,10 +1,10 @@
-## Oi, Tudo Joia👋
+## Oi, Tudo bem Seja bem vindo ao meu perfil
 
 -Sou Joao Arthur
 
--aluno do senac
+-formaçao senac 
 
--cursando o curso de programador de sistema
+- programador de sistema
 
 **JoaoAASilva/JoaoAASilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
