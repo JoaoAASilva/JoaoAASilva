@@ -1,10 +1,12 @@
-## Oi, Tudo bem Seja bem vindo ao meu perfil
+## Olá, seja bem-vindo ao meu perfil
 
--Sou Joao Arthur
+## Sobre mim
 
--formaçao senac 
+-👨🏾‍💻Sou Joao Arthur.
 
-- programador de sistema
+-👨🏽‍🎓Formaçao no senac, como programador de sistemas.
+
+-📚​Atualmente estou cursando na area informatica
 
 **JoaoAASilva/JoaoAASilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
