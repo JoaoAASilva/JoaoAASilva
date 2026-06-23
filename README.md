@@ -6,7 +6,7 @@
 
 -👨🏽‍🎓Formaçao no senac, como programador de sistemas.
 
--📚​Atualmente estou cursando na area informatica
+-📚​Atualmente estou cursando na area da informatica
 
 ## Perfil voltado pra estudo
 
