@@ -8,6 +8,9 @@
 
 -📚​Atualmente estou cursando na area informatica
 
+##Perfil voltado pra estudo:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/> @
+
 **JoaoAASilva/JoaoAASilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Entre em contato📞
