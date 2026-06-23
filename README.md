@@ -21,6 +21,10 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.intagram.com/j.thurv)
 
+-Perfil Da Udemy
+ <img src="https://img.shields.io/badge/Udemy-Perfil-purple?style=for-the-badge&logo=udemy" /> 
+ @Joao A.A.Silva
+
 ## linguagem💻
 
 <img align="center" alt="ces" height= "45" whidht="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
